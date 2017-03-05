@@ -5,7 +5,7 @@
 ![inquiry](https://globalmaps.github.io/globalmaps/inquiry.png)
 
 ## note
-Credit: "Global Map of Samoa © ISCGM / The Ministry of Natural Resources and Environmente, Samoa"
+Credit: "Global Map of Samoa © ISCGM / The Ministry of Natural Resources and Environment, Samoa"
 
 Contact: The Chief Executive Officer and/or the Principal Mapping Officer of the Ministry of Natural Resources and Environment. 
 
